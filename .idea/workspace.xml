@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae5d2d4e-bde9-440d-b0a5-4f4a25291e84" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/architecture.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/code-style.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/testing-standards.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="150">
+                <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testing-standards.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/testing-standards.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="486">
+                <caret line="126" column="2" lean-forward="false" selection-start-line="126" selection-start-column="2" selection-end-line="126" selection-end-column="2" />
+                <folding>
+                  <marker date="1502119475283" expanded="true" signature="1370:1380" ph="..." />
+                  <marker date="1502119475283" expanded="true" signature="1370:1510" ph="..." />
+                  <marker date="1502119475283" expanded="true" signature="1396:1425" ph=" @test ..." />
+                  <marker date="1502119475283" expanded="true" signature="1415:1425" ph=" @test ..." />
+                  <marker date="1502119475283" expanded="true" signature="1793:2715" ph="..." />
+                  <marker date="1502119475283" expanded="true" signature="1819:1895" ph=" @test ..." />
+                  <marker date="1502119475283" expanded="true" signature="1993:2154" ph="..." />
+                  <marker date="1502119475283" expanded="true" signature="2221:2704" ph="..." />
+                  <marker date="1502119475283" expanded="true" signature="2242:2681" ph="..." />
+                  <marker date="1502119475283" expanded="true" signature="2242:2693" ph="..." />
+                  <marker date="1502119475283" expanded="true" signature="2279:2451" ph="..." />
+                  <marker date="1502119475283" expanded="true" signature="2279:2467" ph="..." />
+                  <marker date="1502119475283" expanded="true" signature="2504:2674" ph="..." />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="architecture.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/architecture.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="1566">
+                <caret line="142" column="0" lean-forward="true" selection-start-line="142" selection-start-column="0" selection-end-line="142" selection-end-column="0" />
+                <folding>
+                  <marker date="1502117684269" expanded="true" signature="1856:1882" ph="..." />
+                  <marker date="1502117684269" expanded="true" signature="1856:1940" ph="..." />
+                  <marker date="1502117684269" expanded="true" signature="1856:2009" ph="..." />
+                  <marker date="1502117684269" expanded="true" signature="1939:1940" ph="..." />
+                  <marker date="1502117684269" expanded="true" signature="2207:2612" ph="..." />
+                  <marker date="1502117684269" expanded="true" signature="2207:2692" ph="..." />
+                  <marker date="1502117684269" expanded="true" signature="2207:3290" ph="..." />
+                  <marker date="1502117684269" expanded="true" signature="2436:2612" ph="..." />
+                  <marker date="1502117684269" expanded="true" signature="2692:2774" ph="..." />
+                  <marker date="1502117684269" expanded="true" signature="2838:3043" ph="..." />
+                  <marker date="1502117684269" expanded="true" signature="2838:3290" ph="..." />
+                  <marker date="1502117684269" expanded="true" signature="2877:2934" ph="..." />
+                  <marker date="1502117684269" expanded="true" signature="2982:3037" ph="..." />
+                  <marker date="1502117684269" expanded="true" signature="2982:3043" ph="..." />
+                  <marker date="1502117684269" expanded="true" signature="3105:3286" ph="..." />
+                  <marker date="1502117684269" expanded="true" signature="3164:3213" ph="..." />
+                  <marker date="1502117684269" expanded="true" signature="3221:3280" ph="..." />
+                  <marker date="1502117684269" expanded="true" signature="4178:4267" ph="{...}" />
+                  <marker date="1502117684269" expanded="true" signature="4186:4266" ph="..." />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>]</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>]()</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/docs/code-style.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/docs/architecture.md" />
+        <option value="$PROJECT_DIR$/docs/testing-standards.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1906" />
+    <option name="y" value="336" />
+    <option name="width" value="1299" />
+    <option name="height" value="680" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="coding-standards" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coding-standards" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="coding-standards" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coding-standards" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="docs" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae5d2d4e-bde9-440d-b0a5-4f4a25291e84" name="Default" comment="" />
+      <created>1502105773896</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1502105773896</updated>
+      <workItem from="1502105775295" duration="197000" />
+      <workItem from="1502113023795" duration="6450000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6647000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1960" y="301" width="1327" height="780" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16653636" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/docs/code-style.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="435">
+            <caret line="29" column="3" lean-forward="false" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/architecture.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1566">
+            <caret line="142" column="0" lean-forward="true" selection-start-line="142" selection-start-column="0" selection-end-line="142" selection-end-column="0" />
+            <folding>
+              <marker date="1502117684269" expanded="true" signature="1856:1882" ph="..." />
+              <marker date="1502117684269" expanded="true" signature="1856:1940" ph="..." />
+              <marker date="1502117684269" expanded="true" signature="1856:2009" ph="..." />
+              <marker date="1502117684269" expanded="true" signature="1939:1940" ph="..." />
+              <marker date="1502117684269" expanded="true" signature="2207:2612" ph="..." />
+              <marker date="1502117684269" expanded="true" signature="2207:2692" ph="..." />
+              <marker date="1502117684269" expanded="true" signature="2207:3290" ph="..." />
+              <marker date="1502117684269" expanded="true" signature="2436:2612" ph="..." />
+              <marker date="1502117684269" expanded="true" signature="2692:2774" ph="..." />
+              <marker date="1502117684269" expanded="true" signature="2838:3043" ph="..." />
+              <marker date="1502117684269" expanded="true" signature="2838:3290" ph="..." />
+              <marker date="1502117684269" expanded="true" signature="2877:2934" ph="..." />
+              <marker date="1502117684269" expanded="true" signature="2982:3037" ph="..." />
+              <marker date="1502117684269" expanded="true" signature="2982:3043" ph="..." />
+              <marker date="1502117684269" expanded="true" signature="3105:3286" ph="..." />
+              <marker date="1502117684269" expanded="true" signature="3164:3213" ph="..." />
+              <marker date="1502117684269" expanded="true" signature="3221:3280" ph="..." />
+              <marker date="1502117684269" expanded="true" signature="4178:4267" ph="{...}" />
+              <marker date="1502117684269" expanded="true" signature="4186:4266" ph="..." />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/testing-standards.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="486">
+            <caret line="126" column="2" lean-forward="false" selection-start-line="126" selection-start-column="2" selection-end-line="126" selection-end-column="2" />
+            <folding>
+              <marker date="1502119475283" expanded="true" signature="1370:1380" ph="..." />
+              <marker date="1502119475283" expanded="true" signature="1370:1510" ph="..." />
+              <marker date="1502119475283" expanded="true" signature="1396:1425" ph=" @test ..." />
+              <marker date="1502119475283" expanded="true" signature="1415:1425" ph=" @test ..." />
+              <marker date="1502119475283" expanded="true" signature="1793:2715" ph="..." />
+              <marker date="1502119475283" expanded="true" signature="1819:1895" ph=" @test ..." />
+              <marker date="1502119475283" expanded="true" signature="1993:2154" ph="..." />
+              <marker date="1502119475283" expanded="true" signature="2221:2704" ph="..." />
+              <marker date="1502119475283" expanded="true" signature="2242:2681" ph="..." />
+              <marker date="1502119475283" expanded="true" signature="2242:2693" ph="..." />
+              <marker date="1502119475283" expanded="true" signature="2279:2451" ph="..." />
+              <marker date="1502119475283" expanded="true" signature="2279:2467" ph="..." />
+              <marker date="1502119475283" expanded="true" signature="2504:2674" ph="..." />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
