@@ -18,4 +18,4 @@ You can install this in your project using composer:
 3. [Testing standards](docs/testing.md)
 4. [Definition of "Ready"](docs/d-o-ready.md)
 5. [Definition of "Done"](docs/d-o-done.md)
-6. [Running tests](docs/running-tests.md)
+6. [Running tests (to be done)](docs/running-tests.md)
