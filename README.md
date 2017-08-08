@@ -15,13 +15,13 @@ You can install this in your project using composer:
     
 After successful installation testing code style and running mess detector is easy as:
 
-    php bin/phpmd directory_to_test/ text phpmd.xml
+    php bin/phpmd directory_to_test/ text vendor/futurenet/coding-standards/phpmd.xml
     
-    php bin/php-cs-fixer fix directory_to_test/ --dry-run --diff
+    php bin/php-cs-fixer fix directory_to_test/ --dry-run --diff --config=vendor/futurenet/coding-standards/.php_cs.dist
 
 For automatical fix of coding style errors run: 
 
-    php bin/php-cs-fixer fix directory_to_test/
+    php bin/php-cs-fixer fix directory_to_fix/ --config=vendor/futurenet/coding-standards/.php_cs.dist
     
 But be careful, it can be dangerous!
 
