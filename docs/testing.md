@@ -1,6 +1,6 @@
 # testing standards
 
-We use:
+We use tools:
 
 * [phpunit](http://phpunit.de) (with [prophecy](phpspec/prophecy))
 * [doctrine/data-fixtures](https://github.com/doctrine/data-fixtures) and/or [nelmio/alice](https://github.com/nelmio/alice)
