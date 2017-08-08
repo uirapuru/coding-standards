@@ -12,6 +12,20 @@ It's basically a Bible of PHP good practices.
 You can install this in your project using composer:
 
     composer require futurenet/coding-standards
+    
+After successful installation testing code style and running mess detector is easy as:
+
+    php bin/phpmd directory_to_test/ text phpmd.xml
+    
+    php bin/php-cs-fixer fix directory_to_test/ --dry-run --diff
+
+For automatical fix of coding style errors run: 
+
+    php bin/php-cs-fixer fix directory_to_test/
+    
+But be careful, it can be dangerous!
+
+Reading:    
 
 1. [Code style standards](docs/code-style.md)
 2. [Architecture standards](docs/architecture.md)
