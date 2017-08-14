@@ -1,4 +1,9 @@
-# coding-standards
+# general standards
+
+1. [Definition of "Ready"](docs/d-o-ready.md)
+2. [Definition of "Done"](docs/d-o-done.md)
+
+# coding-standards for backend developers
 
 For sake of teams inter-operatibility and maintaining a good coding practices in our projects,
 we - developers of FutureNet group - have provided a set of rules in form of documents
@@ -30,6 +35,17 @@ Reading:
 1. [Code style standards](docs/code-style.md)
 2. [Architecture standards](docs/architecture.md)
 3. [Testing standards](docs/testing.md)
-4. [Definition of "Ready"](docs/d-o-ready.md)
-5. [Definition of "Done"](docs/d-o-done.md)
-6. [Running tests (to be done)](docs/running-tests.md)
+4. [Running tests (to be done)](docs/running-tests.md)
+
+# frontend coding standards
+
+This set of good front-end coding practices has been introduced to optimize the time it takes to implement the external content provided to FutureNet developers, and to facilitate mutual communication between them and external teams.
+
+Developed by us (FutureNet developers) good coding practices have been based on our own knowledge and experience, and also based on the external standards used by front-end developers everyday around the world.
+
+The collection was divided into three parts, in which the standards described were enriched with practical examples.
+
+Reading:
+1. [CSS standards](docs/css.md)
+2. [HTML standards](docs/html.md)
+3. [JS standards](docs/js.md)
