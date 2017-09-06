@@ -10,9 +10,15 @@ we - developers of FutureNet group - have provided a set of rules in form of doc
 and configuration files. We hope it will help to create robust, efficient and easy to understand 
 solutions for business related problems in technologies that we support.
 
-#### As your first reading this should be the site: **http://www.phptherightway.com** 
+# As your first reading
 
+this should be the site: **http://www.phptherightway.com**
 It's basically a Bible of PHP good practices.
+
+also nice to know and understand: **https://github.com/jupeter/clean-code-php**
+and a league of outstanding packages: **https://github.com/ziadoz/awesome-php/blob/master/README.md**
+
+# Installation
 
 You can install this in your project using composer:
 
