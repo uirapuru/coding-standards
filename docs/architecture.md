@@ -144,5 +144,12 @@
 8. Start measuring your tests and optimize them. Tests can be divided into smaller units and suites that
    should last not longer than 2 minutes. Developer should be able to run them quickly on his local machine.
    
+9. Value Objects are the thing. As Albert Einstein said: "Everything should be made as simple as possible, but not simpler."
+   Instead of using way too simple floats, string or dates, wrap'em up into object like Carbon, Money or Uuid - they will
+   fix for you a lot of common problems like [float innacurracy](https://en.wikipedia.org/wiki/Floating-point_arithmetic#Accuracy_problems)
    
+   Those packages where added to composer.json of this project, so use them as they are directly.
+   
+   ![](img/20130605.png)  
   
+   
